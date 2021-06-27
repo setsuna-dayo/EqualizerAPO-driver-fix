@@ -9,3 +9,5 @@
 解决方案：开机自启一个程序后台为音频驱动保活ww
 
 于是就有了这个随手写的小东西
+
+在这里下载：https://github.com/setsuna-dayo/EqualizerAPO-driver-fix/releases/download/v1.0/EqualizerAPO-driver-fix.exe
