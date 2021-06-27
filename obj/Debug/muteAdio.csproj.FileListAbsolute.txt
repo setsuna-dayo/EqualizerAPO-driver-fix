@@ -1,0 +1,10 @@
+C:\Csharp\muteAdio\bin\Debug\muteAdio.exe.config
+C:\Csharp\muteAdio\bin\Debug\muteAdio.exe
+C:\Csharp\muteAdio\bin\Debug\muteAdio.pdb
+C:\Csharp\muteAdio\obj\Debug\muteAdio.csprojAssemblyReference.cache
+C:\Csharp\muteAdio\obj\Debug\muteAdio.Form1.resources
+C:\Csharp\muteAdio\obj\Debug\muteAdio.Properties.Resources.resources
+C:\Csharp\muteAdio\obj\Debug\muteAdio.csproj.GenerateResource.cache
+C:\Csharp\muteAdio\obj\Debug\muteAdio.csproj.CoreCompileInputs.cache
+C:\Csharp\muteAdio\obj\Debug\muteAdio.exe
+C:\Csharp\muteAdio\obj\Debug\muteAdio.pdb

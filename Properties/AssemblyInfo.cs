@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("muteAdio")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("EqualizerAPO-driver-fix")]
+[assembly: AssemblyDescription("no")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("muteAdio")]
-[assembly: AssemblyCopyright("Copyright © HP Inc. 2021")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany("no")]
+[assembly: AssemblyProduct("no")]
+[assembly: AssemblyCopyright("no")]
+[assembly: AssemblyTrademark("no")]
 [assembly: AssemblyCulture("")]
 
 // 将 ComVisible 设置为 false 会使此程序集中的类型
